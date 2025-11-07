@@ -369,7 +369,7 @@
 		"uniques": ["[-10]% Strength for enemy [Mounted] units in adjacent [Land] tiles","[-10]% Strength for enemy [Armored] units in adjacent [Land] tiles"],
 		"unitTypes": ["Sword Anti Cavalry","Gunpowder Anti Cavalry","Anti Armor"],
         "column": 28,
-        "row": 3
+        "row": 5
 	},
 
 	{
